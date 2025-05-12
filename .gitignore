@@ -1,0 +1,61 @@
+# Build sonuçları
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.pdb
+*.cache
+*.sdf
+*.opensdf
+*.VC.db
+
+# Paketler
+packages/
+*.nupkg
+*.snupkg
+
+# Publish çıktıları
+publish/
+out/
+artifacts/
+
+# Test sonuçları
+TestResults/
+*.trx
+
+# Geçici dosyalar
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ayar dosyaları
+appsettings.Development.json
+appsettings.Local.json
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# MacOS ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Diğer
+_ReSharper*/
+*.resharper
+*.DotSettings.user
